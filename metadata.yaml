@@ -1,5 +1,8 @@
 _repo: Oliver-Twist_730
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dickens, Charles
@@ -28,6 +31,8 @@ description: "Oliver Twist, or The Parish Boy's Progress, is the second novel by
   \ of numerous adaptations for various media, including a highly successful musical\
   \ play, Oliver!, and the multiple Academy Award-winning 1968 motion picture.\n From\
   \ Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/730#Oliver-Twist
 gutenberg_issued: '1996-11-01'
 gutenberg_type: Text
 identifiers:
